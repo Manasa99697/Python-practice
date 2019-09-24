@@ -1,0 +1,312 @@
+    1  pwd
+    2  ls
+    3  cd desktop
+    4  pwd
+    5  pwd
+    6  cd d:
+    7  cd e:
+    8  cd ..
+    9  cd admin
+   10  cd c:
+   11  cd Admin
+   12  cd Users
+   13  cd Admin
+   14  cd Desktop
+   15  pwd
+   16  cd Desktop
+   17  cd Desktop/
+   18  cd Users
+   19  cd c:
+   20  cd Users
+   21  cd Admin
+   22  cd Desktop
+   23  cd mkdir mstp
+   24  mkdir mstp
+   25  pwd
+   26  cd mstp
+   27  mkdir day-3
+   28  cd day-3
+   29  rmdir day-3
+   30  Rmdir day-3
+   31  rmdir
+   32  ls
+   33  cd..
+   34  cd ..
+   35  rmdir day-3
+   36  ls
+   37  touch file.txt
+   38  ls
+   39  touch file{1..10}.txt
+   40  echo {1..10}
+   41  rm file{1..10}.txt
+   42  echo {1..100}.txt
+   43  touch file{1..10}.png
+   44  rm file{1..10}.png
+   45  ls
+   46  touch file{1..10}.png
+   47  rm *.png
+   48  rm *.txt
+   49  ls
+   50  Rm-rf mstp
+   51  rm-rf mstp
+   52  rm -rf mstp
+   53  ls
+   54  ls
+   55  rm -rf mstp
+   56  history
+   57  touch hist.txt
+   58  history >>hist.txt
+   59  cat hist.txt
+   60  ls
+   61  touch day-3
+   62  ls
+   63  cat day-3 >>hist.txt
+   64  cat day-3
+   65  cat day-3>>hist.txt
+   66  cat day-3
+   67  touch day-3.txt
+   68  ls
+   69  cat day-3.txt>>hist.txt
+   70  cat day3.txt
+   71  cat day-3.txt
+   72  pwd
+   73  rm mstp
+   74  rmdir mstp
+   75  cd..
+   76  cd ..
+   77  rmdir mstp
+   78  rm -rf mstp
+   79  ls
+   80  mkdir ms
+   81  cd ms
+   82  touch m{1..5}.txt
+   83  ls
+   84  nano m1.txt
+   85  cat m1.txt
+   86  mv m1.txt m2.txt
+   87  ls
+   88  cat m2.txt
+   89  pwd
+   90  git config user.name
+   91  git config user.email
+   92  git status
+   93  git remote -v
+   94  git push -u manasa master
+   95  git push -u apssdcc master
+   96  git push -u ma master
+   97  git push -u apssdcc master
+   98  pwd
+   99  cd desktop
+  100  cd apssdcc
+  101  git init
+  102  git config user.name
+  103  git config user.email
+  104  git status
+  105  touch ma.txt
+  106  echo "hai">>ma.txt
+  107  cat ma.txt
+  108  git status
+  109  git add --a
+  110  git commit -m "version1"
+  111  git remote -v
+  112  git pull manasa --rebase master
+  113  echo "# RaptorPractice" >> README.md
+  114  ls
+  115  git init
+  116  git add -
+  117  git add .
+  118  git commit -m "i am uploading readme only"
+  119  git config user.name
+  120  git config user.name "vasudha"
+  121  git config user.email "dalaievasudha24@gmail.com"
+  122  git commit -m "i am uploading readme only"
+  123  git remote add origin https://github.com/vasu0524/RaptorPractice.git
+  124  git push -u origin master
+  125  git push -u origin master
+  126  git init
+  127  git config user.name
+  128  git config user.name manasa
+  129  git config user.email
+  130  git config user.email manasanaga99@gmail.com
+  131  git config user.email
+  132  git add --a
+  133  git commit -m "version3"
+  134  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  135  git push -u origin master
+  136  git push -u origin master
+  137  git push -u origin master
+  138  git push -u origin master
+  139  git init
+  140  git config user.name
+  141  git config user.name manasa
+  142  git config user.email
+  143  git config user.email manasanaga99@gmail.com
+  144  git config user.email
+  145  git add --a
+  146  git commit -m "first commit"
+  147  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  148  git push -u origin master
+  149  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  150  git push -u origin master
+  151  git init
+  152  git add --a
+  153  git commit -m "first commit"
+  154  git commit -m "second commit"
+  155  git config user.name
+  156  git config user.email
+  157  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  158  git push -u origin master
+  159  git init
+  160  git add .
+  161  git commit -m "version3"
+  162  git add origin master https://github.com/Manasa99697/MSTP-KSRM-APSSDC.git
+  163  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC.git
+  164  git push -u origin master
+  165  git pull remote https://github.com/Manasa99697/MSTP-KSRM-APSSDC.git
+  166  git init
+  167  git add .
+  168  git commit -m "version4"
+  169  git config user.name
+  170  git config user.name manasa
+  171  git config user.name
+  172  git config user.email
+  173  git config user.email manasanaga99@gmail.com
+  174  git config user.email
+  175  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  176  git push -u origin master
+  177  git remote add origin https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  178  git push -u origin master
+  179  git push -u origin master
+  180  git push -u origin master
+  181  git init
+  182  git status
+  183  git add --a
+  184  git status
+  185  git commit -m "version4"
+  186  git git remote add manu https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  187  git remote add manu https://github.com/Manasa99697/MSTP-KSRM-APSSDC
+  188  git push -u manu master
+  189  git remote add manu https://github.com/Manasa99697/Raptorpractice.git
+  190  git remote add man https://github.com/Manasa99697/Raptorpractice.git
+  191  git push -u man master
+  192  git init
+  193  git add README.md
+  194  git config user.name
+  195  git config user.name manasa
+  196  git config user.email
+  197  git config user.email manasanaga99@gmail.com
+  198  git config user.email
+  199  echo "# Raptor" >> README.md
+  200  git add README.md
+  201  git status
+  202  git add --a
+  203  git status
+  204  git commit -m "first commit"
+  205  git remote add origin https://github.com/Manasa99697/Raptor.git
+  206  git push -u origin master
+  207  git init
+  208  git config name
+  209  git config user.name
+  210  git config user.name manasa
+  211  git config user.email
+  212  git config user.email manasanaga99@gmail.com
+  213  git config user.email
+  214  git commit -m "first version"
+  215  git add --a
+  216  git remote add origin https://github.com/Manasa99697/Raptor.git
+  217  git remote -u origin master
+  218  git remote -u origin master
+  219  git push -u origin master
+  220  git push -u origin master
+  221  git remote add origin https://github.com/Manasa99697/Raptor.git
+  222  git push -u origin master
+  223  git push -u origin master
+  224  git add --a
+  225  git status
+  226  git commit -m "first commit"
+  227  git remote add origin https://github.com/Manasa99697/Raptor.git
+  228  git push -u origin master
+  229  git push -u origin master
+  230  git init
+  231  git config user.name
+  232  git config user.email
+  233  git status
+  234  git commit -m "second commit"
+  235  git add --a
+  236  git status
+  237  git commit -m "second commit"
+  238  git remote add manasa https://github.com/Manasa99697/Raptor.git
+  239  git push -u manasa master
+  240  git init
+  241  git add .
+  242  git commit -m "second commit"
+  243  git remote add files https://github.com/Manasa99697/Raptor.git
+  244  git push -u files master
+  245  git remote -v
+  246  git push -u files master
+  247  git push -u files master
+  248  git remote -v
+  249  git push -u files master
+  250  git init
+  251  git config user.name
+  252  git config user.name manasa
+  253  git config user.name
+  254  git config user.email
+  255  git config user.email manasanaga99@gmail.com
+  256  git config user.email
+  257  git add .
+  258  git status
+  259  git commit -m "second commit"
+  260  git status
+  261  git add .
+  262  git status
+  263  git remote -v
+  264  git remote add files https://github.com/Manasa99697/Raptor.git
+  265  git push -u files master
+  266  git push -u files master
+  267  echo README.md
+  268  ls
+  269  git add --a
+  270  git status
+  271  git commit -m "commit"
+  272  git status
+  273  git config user.name
+  274  git config user.email
+  275  git remote -v
+  276  git push -u files master
+  277  git remote -u python https://github.com/Manasa99697/Raptor.git
+  278  git push -u python master
+  279  git remote -v
+  280  git remote add python https://github.com/Manasa99697/Raptor.git
+  281  git remote -v
+  282  git push -u python master
+  283  git remote -v
+  284  git push -u python master
+  285  touch README.md
+  286  ls
+  287  git add --a
+  288  git commit -m "commit"
+  289  git remote -v
+  290  git push -u python master
+  291  git push rebase -u python master 
+  292  git pull --rebase python master
+  293  git pull --rebase
+  294  git commit -m "Done"
+  295  git add -a
+  296  git add --a
+  297  git commit -m "Done"
+  298  git pull --rebase
+  299  git pull --rebase python master
+  300  git push -u python master
+  301  history
+  302  history.txt>>history
+  303  ls
+  304  git add --a
+  305  git commit "upload"
+  306  git commit -m "upload"
+  307  git remote -v
+  308  git push -u python master
+  309  history.txt>>history
+  310  history
+  311  history.txt>>history
+  312  history>>history.txt
